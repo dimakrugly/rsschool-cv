@@ -46,4 +46,18 @@ for (let i = 0; i < arr.length; i++) {
 * _Active sales_
 * _B2B Meetings_
 * _Sales team leadership_
+---
+
+### **Cources and Education**:
+*1.SHPP developers course*
+
+*2.RSSchool FE/Zero course*
+
+---
+### **Language**:
+
+* _English - B1_
+* _Polish - B2_
+* _Ukrainian - Native Speaker_
+* _Russian - Native Speaker_
 
