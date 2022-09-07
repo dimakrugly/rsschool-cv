@@ -1,1 +1,1 @@
-# rsschool-cv
+https://dimakrugly.github.io/rsschool-cv/
