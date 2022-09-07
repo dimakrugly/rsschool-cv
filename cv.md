@@ -40,3 +40,10 @@ for (let i = 0; i < arr.length; i++) {
 }
 
 ```
+
+### **Work experience**:
+#### Cersanit SA 09/2021 - 09/2022 Regional Sales Director
+* _Active sales_
+* _B2B Meetings_
+* _Sales team leadership_
+
