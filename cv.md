@@ -1,5 +1,9 @@
-## [https://rs.school/]('rsschool')
+## [*https://rs.school/*]('rsschool')
 ---
 # Dmytro Torop
 ---
-git 
+## **Contacts**:
+
+### GitHub: dimakrugly
+### Discord: dimakrugly#0651
+### Mail: young-z@i.ua
